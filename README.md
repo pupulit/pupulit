@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **pupulit/pupulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+欢迎大家来我的主页
+## 📈 GitHub 活动图:
+![BEPb's github activity graph](https://raw.githubusercontent.com/pupulit/pupulit/c1e1dc65ecd440f2e2202ef248f04483e3dbcb85/github-user-contribution.svg)
+
+
+## GitHub 访问次数
+
+<div style="">
+  <img src="https://count.getloli.com/get/@:pupulit" alt=":pupulit" />
+</center>
